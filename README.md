@@ -1,4 +1,4 @@
-# Hi, I'm Kanghyun Yoo 👋
+# Hi, I'm Kanghyun Lew 👋
 
 Backend와 Cloud Infrastructure를 함께 이해하는 엔지니어를 목표로 하고 있습니다.
 
